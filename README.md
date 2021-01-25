@@ -18,8 +18,13 @@ Nodej express rest api connected to mongodb for performin g CRUD operations on f
 
 
 ## Endpoints
-#GET list http://localhost:3600/flight-details
-#PATCH http://localhost:3600/flight-details/:id
-#DELETE http://localhost:3600/flight-details/:id
-#GET http://localhost:3600/flight-details/:id
-#POST http://localhost:3600/flight-details
+# GET 
+   - list http://localhost:3600/flight-details
+# PATCH
+   - http://localhost:3600/flight-details/:id
+# DELETE 
+   - http://localhost:3600/flight-details/:id
+# GET 
+   - http://localhost:3600/flight-details/:id
+# POST 
+   - http://localhost:3600/flight-details
